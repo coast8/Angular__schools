@@ -1,0 +1,1 @@
+fonte: https://medium.com/wizardnet972/48-answers-on-stack-overflow-to-the-most-popular-angular-questions-52f9eb430ab0
